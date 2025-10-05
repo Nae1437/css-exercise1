@@ -8,5 +8,28 @@ h1 {color: firebrick;
 h2 {color:chocolate
 }
 
+h2 {
+  border-width: 2px;
+  border-style: solid;
+  border-color: chocolate;
+  display: inline-block;
+  margin: 0;
+}
+
 h3 {color: gold;
+}
+
+p {color: darkgreen;
+}
+
+h4 {color: blue;
+}
+
+ul {color: indigo;
+}
+
+#list-number-one {background-color: rgb(117, 117, 117);
+}
+
+#list-number-two {background-color: rgb(216, 216, 216);
 }
